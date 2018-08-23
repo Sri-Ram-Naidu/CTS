@@ -1,0 +1,8 @@
+.jumbotron {
+  background-image: url(../images/HeartMelt.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  color: cyan;
+  width:  100%;
+}

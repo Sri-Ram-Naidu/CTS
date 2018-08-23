@@ -1,0 +1,33 @@
+.navbar-brand {
+  color:#aaa;
+}
+
+a {
+  color: #aaa;
+  font-weight: 300;
+}
+.navbar
+{
+ background-color:#333;
+}
+.nav-link
+{
+  color:white;
+}
+h1{
+  text-align: center;
+  color: black;
+}
+
+.navbar a:hover {
+  background-color: #ddd;
+  color: black;
+}
+.navbar-brand {
+  
+  color: white;
+}
+.btn
+{
+  color: #aaa;
+}
